@@ -1,0 +1,6 @@
+[submodule "devops-sample"]
+	path = devops-sample
+	url = https://github.com/SalilRichard/devops-sample.git
+[submodule "external/repo"]
+	path = external/repo
+	url = https://github.com/SalilRichard/devops-sample.git
